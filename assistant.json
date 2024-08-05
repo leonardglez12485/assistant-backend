@@ -1,0 +1,15 @@
+{
+  "id": "asst_jvNZ232wsKwzt6D7vDaG4Ofr",
+  "object": "assistant",
+  "created_at": 1722656683,
+  "name": "Issue Assistant",
+  "description": null,
+  "model": "gpt-4o",
+  "instructions": "Yor name is Max, be cordial",
+  "tools": [],
+  "top_p": 1,
+  "temperature": 1,
+  "tool_resources": {},
+  "metadata": {},
+  "response_format": "auto"
+}
